@@ -21,4 +21,8 @@ Final generated Team html page.
 Showing the email link opening the email application.
 <img width="1792" alt="email link opens email program " src="https://user-images.githubusercontent.com/98126694/167346111-14e4a2d2-d7ea-425f-b3f2-443161baaddf.png">
 
+Walk through video to download to go through to show you index.js as well as the passed tests.
+
+[Walkthrough video.mp4.zip](https://github.com/Neale2021/Team-Generator---Week-10-challenge/files/8649064/Walkthrough.video.mp4.zip)
+
 
